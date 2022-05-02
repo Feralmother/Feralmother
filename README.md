@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Feralmother
 - 👀 I’m interested in ...games and UX
 - 🌱 I’m currently learning ...LUA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...a city builder, resource management game
 - 📫 How to reach me ...
 
 <!---
